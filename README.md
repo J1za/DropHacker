@@ -59,7 +59,6 @@ npm run build
 ## Start the project
 
 ```bash
-# Start The Project
 npm start
 ```
 
