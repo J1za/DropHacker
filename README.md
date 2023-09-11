@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://t.me/hash4cash_links">
+  <a href="#">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/PerdOdz.png">
       <img src="https://i.imgur.com/PerdOdz.png" height="128">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a aria-label="Join the community on Telegram" href="https://t.me/hash4cash_links">
+  <a aria-label="Join the community on Telegram" href="#">
     <img alt="" src="https://github.com/rubenlagus/TelegramBots/raw/master/TelegramBots.svg">
   </a>
 </p>
